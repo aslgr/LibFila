@@ -2,7 +2,7 @@
 This project implements a queue library in C, supporting basic operations such as enqueueing and dequeueing.
 
 ## Introduction
-This project focuses on the development of a queue data structure library in C, designed to handle integer elements. A queue ("fila", in portuguese) operates on the FIFO (First In, First Out) principle, where the first element added is the first to be removed. The library provides fundamental queue operations such as insertion (enqueue), removal (dequeue), checking if the queue is empty, and return the queue's size. In addition to the library, a test suite is implemented to ensure the correctness and robustness of the functions, aiming for effective memory management without leaks.
+This project focuses on the development of a queue data structure library in C, designed to handle integer elements. A queue ("fila", in Portuguese) operates on the FIFO (First In, First Out) principle, where the first element added is the first to be removed. The library provides fundamental queue operations such as insertion (enqueue), removal (dequeue), checking if the queue is empty, and return the queue's size. In addition to the library, a test suite is implemented to ensure the correctness and robustness of the functions, aiming for effective memory management without leaks.
 
 ### Implemented Functions
 1. fila_t *cria_fila(): This function creates an empty queue.
